@@ -1,0 +1,1 @@
+Crude multithreaded audio player. Main purpose is to learn and practice multithreading in C++
